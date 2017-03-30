@@ -1,0 +1,19 @@
+Enter size of n*n Matrices
+2
+Matrix Initialized
+Matrix Initialized
+Matrix Initialized
+
+ [7]  [2] 
+ [2]  [6] 
+
+ [1]  [8] 
+ [2]  [7] 
+
+ [11]  [70] 
+ [14]  [58] 
+Matrix deleted
+Matrix deleted
+Matrix deleted
+Total time: 42156ns
+

@@ -1,0 +1,24 @@
+Enter size of n*n Matrices
+2
+Matrix Initialized
+Matrix Initialized
+Matrix Initialized
+
+ [6]  [0] 
+ [0]  [0] 
+
+ [1]  [7] 
+ [6]  [1] 
+
+ [6]  [42] 
+ [0]  [0] 
+Matrix deleted
+Matrix deleted
+Matrix deleted
+Total time: 1092759ns
+
+
+------------------
+(program exited with code: 0)
+Press return to continue
+

@@ -1,0 +1,23 @@
+Sequential 2x2 time = 42156ns
+Parallel 2x2 time   = 1092759ns
+speedup with 4 processors = 0.03857758
+
+Sequential 4x4 time = 31470ns
+Parallel 4x4 time   = 503764ns
+speedup with 4 processors = 0.06246973
+
+Sequential 8x8 time = 77321ns
+Parallel 8x8 time   = 682087ns
+speedup with 4 processors = 0.11335944
+
+Sequential 16x16 time = 251402ns
+Parallel 16x16 time   = 1452646ns
+speedup with 4 processors = 0.17306488
+
+Sequential 32x32 time = 496449ns
+Parallel 32x32 time   = 2962130ns
+speedup with 4 processors = 0.16759865
+
+
+Speedup Non existent at this point with low n's over the 5 test results their seems to be a trend toward increasing ratio
+with higher n which is what we would expect.

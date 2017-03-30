@@ -1,0 +1,25 @@
+Enter size of n*n Matrices
+4
+Matrix Initialized
+Matrix Initialized
+Matrix Initialized
+
+ [10]  [1]  [9]  [4] 
+ [8]  [4]  [6]  [4] 
+ [3]  [1]  [6]  [3] 
+ [8]  [8]  [7]  [2] 
+
+ [0]  [2]  [2]  [1] 
+ [5]  [10]  [1]  [3] 
+ [5]  [2]  [8]  [3] 
+ [4]  [3]  [0]  [8] 
+
+ [19174770]  [60]  [93]  [72] 
+ [66]  [80]  [68]  [70] 
+ [46]  [37]  [55]  [48] 
+ [83]  [116]  [1762162480]  [32803] 
+Matrix deleted
+Matrix deleted
+Matrix deleted
+Total time: 503764ns
+
